@@ -1,0 +1,2 @@
+[03-Dec-2020 16:00:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/platform.shoppii.co/public_html/../shoppii/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/platform.shoppii.co/public_html/index.php on line 34
+[03-Dec-2020 16:01:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/platform.shoppii.co/public_html/../shoppii/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/platform.shoppii.co/public_html/index.php on line 34
